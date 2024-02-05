@@ -7,3 +7,7 @@ this is md file
 ## this is heading 2
 
 end of contents
+
+
+edited new line
+
