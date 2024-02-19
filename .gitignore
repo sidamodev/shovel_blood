@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,c,c++,pycharm,visualstudio,visualstudiocode,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,c,c++,pycharm,visualstudio,visualstudiocode,git
 
+.DS_Store
+.obsidian
+
 ### C ###
 # Prerequisites
 *.d
