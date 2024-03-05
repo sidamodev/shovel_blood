@@ -1,0 +1,9 @@
+p1 p2 p3 p4
+0    5   3   2
+0    6   0   3
+0    0   0   7
+0    6   3   7 SJF waiting/respose time
+
+0    0   0   2 SRT response time
+
+9    1   0   2 SRT waiting time
